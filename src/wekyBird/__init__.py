@@ -1,0 +1,1 @@
+""" Modulo con el bucle principal que gestiona toda la aplicacion """
